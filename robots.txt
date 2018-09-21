@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://nevernamed.ga/sitemap.xml
 Sitemap: https://nevernamed.github.io/sitemap.xml 
