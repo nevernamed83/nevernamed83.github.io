@@ -9,7 +9,7 @@ categories: torrent
 ## mac에 설치
 [https://webtorrent.io/desktop/](https://webtorrent.io/desktop/)에 접근해서 OS에 맞는 설치 버전을 다운로드하면 끝난다.
 
-![웹토렌트 다운로드](../images/webtorrent_download.png)
+![웹토렌트 다운로드](/images/webtorrent_download.png)
 
 다운로드된 dmg파일을 Applications에 넣으면 된다.
 
@@ -22,14 +22,14 @@ categories: torrent
 
 아래와 같이 토렌트 파일을 서비스하는 서비스에서 마그넷 링크를 찾아 클릭한다.
 
-![마그넷찾기](../images/magnet.png)
+![마그넷찾기](/images/magnet.png)
 
 
 마그넷을 클릭하면 webtorrent 어플리케이션에서 인식해서 아래와 같이 다운로드를 시작한다.
 
-![magnet 링크가 추가된 화면](../images/after_magnet_added.png)
+![magnet 링크가 추가된 화면](/images/after_magnet_added.png)
 
 
 오른쪽에 화살표 플레이 버튼을 누르면 동영상이 스트리밍으로 재생된다. 와우~!
 
-![재생 결과](../images/see_movie.png)
+![재생 결과](/images/see_movie.png)
